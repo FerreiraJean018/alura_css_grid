@@ -1,0 +1,32 @@
+aula  1
+
+colocar a parte de destaques no HTML 
+
+criar o css para a parte de destaques no css e importar no HTML 
+
+usar o grid na parte de destaques e separar essa parte em 4 colunas e 3 linhas igualmente espaçadas no
+
+calcular o tamanho da seção destaques a partir da função calc  (calc(100vh - 50px))
+
+em seguida, estilizaremos a classe destaques__principal, uma div do html que engloba a parte do fortnite, que segundo o projeto deve ocupar
+3 colunas e 2 linhas do layout, alem disso, a imagem nao deve se repetir, deve estar centralizada e deve ocupar todo o espaço separado para ela
+
+depois devemos fazer a mesma coisa com o PUBG
+
+estilizando a classe destaque secundario para ocupar uma linha e uma coluna
+
+use o nht-child() para selecionar apenas o destaque__secundario desejado
+
+para otimizar o código, use as propriedades do background
+
+url() center / no-repeat cover
+
+assim como grid-column e grid-row
+
+Em seguida estilizaremos a parte de categoria, posicionando ela no grid como esta no pdf, a lista das categorias sera posicionada em flex, com wrap e
+space between 
+
+os items serão estilizados com align-items, background-color fdfdfd, border left 5px e transparente , cor de texto 333333, display flex, padding 1rem, e 
+width 50%
+
+precisamos tbm posicionar o titulo de cada um dos destques usando flex
