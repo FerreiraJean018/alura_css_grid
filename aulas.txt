@@ -30,3 +30,27 @@ os items serão estilizados com align-items, background-color fdfdfd, border lef
 width 50%
 
 precisamos tbm posicionar o titulo de cada um dos destques usando flex
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aula 2
+
+adicionar um espaçamento entre a seção populares e as seções acima e abaixo dela
+
+estabelecer um grid template ares, coluna, linhas e background
+
+determinar o espaço para os cards e o corpo dos cards da seção populares
+
+O card__imagem deve ocupar todo espaço de largua e altura reservado para ele, e deve se posicionar na area separada para ele
+
+o card__corpo deve ter seu próprio display grid para separar o titulo do conteudo, determinar linhas, gaps e padding
+
+a classe conteudo deve ser colocada em flex wrap
+
+
+para o titulo a data e a descrição alterarenos a cor e o tamanho da fonte
+
+usar text align justified no conteudo
+
+espaçar o botao do titulo de populares, com space-between 
+
