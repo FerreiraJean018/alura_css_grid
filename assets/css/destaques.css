@@ -1,3 +1,9 @@
+.caixa{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
 .destaques{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
@@ -5,6 +11,14 @@
     grid-gap: .2rem;
     
     height: calc(100vh - 50px);
+}
+
+.destaques__titulo{
+    background: rgba(0, 0, 0, .5);
+    color: #fdfdfd;
+    padding: .6rem;
+    text-align: center;
+    width: 100%;
 }
 
 .destaques__principal{
